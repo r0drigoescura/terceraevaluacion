@@ -5,5 +5,5 @@
  * @author inforbach
  *
  */
-module PrimerosProgramas {
+module Hola_mundo {
 }
