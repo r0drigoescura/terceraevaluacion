@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>La pagina de Rodrigo</title>
+<link rel="icon" type= "image/x-icon" href="https://i1.sndcdn.com/artworks-7oU1BTCyax574c8F-R7yQig-t500x500.jpg">
+</head>
+<body>
+<h1 title='buenos dias por la mañana señorito ivan'>Hola buenos dias</h1>
+<h2 style="color:#0ee39f">Hola buenos dias</h2>
+<h3 style="background-color:#2e0ee3">Hola buenos dias</h3>
+<h4 style="border: 2px solid Tomato;">Hola buenos dias</h4>
+<h5>Hola buenos dias</h5>
+<h6>Hola buenos dias</h6>
+<p>publicaciones que te pueden gustar</p>
+<p>Mi entrenador dijo: <q>si seguis jugando asi yo me voy</q></p>
+<img src=https://i1.sndcdn.com/artworks-7oU1BTCyax574c8F-R7yQig-t500x500.jpg height=240 width=124><br>
+<ul>
+  <li>31</li>
+  <li>32</li>
+  <li>33??????<sup>&copy</sup></li>
+</ul> 
+<p id="cosas"></p>
+<script>
+document.getElementById("cosas").innerHTML = "Me empiezo a perder";
+</script> 
+<a href=https://www.youtube.com/watch?v=dQw4w9WgXcQ> No le des aqui<a>
+
+
+</body>
+</html>
